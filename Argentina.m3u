@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1,Telefe HD
 http://livego.club:8080/1eKgDNw3kG/D4JacDbevH/14283
+#EXTINF:-1,Antena3 HD
+dtv://broadcast:12800/dvb/4/65534
 #EXTINF:-1,AR: 24/7 Noticias
 http://livego.club:8080/1eKgDNw3kG/D4JacDbevH/27184
 #EXTINF:-1,AR: A24 FHD*
