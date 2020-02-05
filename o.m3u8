@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1,El nombre de tu radio
-http://livego.club:8080/1eKgDNw3kG/D4JacDbevH/5215
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2903000,RESOLUTION=1280x720,CODECS="avc1.640029, mp4a.40.2"
+http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@584096/index_2800_av-b.m3u8?sd=10&rebase=on
