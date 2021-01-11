@@ -1,6 +1,122 @@
 #EXTM3U
-#EXTINF:-1,TELEFE HD
-https://video-weaver.mad01.hls.ttvnw.net/v1/playlist/Ct8ECjpXla7v4pSnmRDJGtOc902euYJOOY9VClFroBfsl_FhIw0aGq_Lpuj0J4HRfcwZHVUm0Z7ZhBk0w1hHSwr2_7jWA4wqYPQkxFOKK2WxBidlKtctMzFg9wzNB_NQYmaIgqjNDZ33sAmuIC09QwghaGtevL4DKnKbSG8NdJayW2dDwD9uZzMJGdoZewgUaWZ_c7ytJcEMKfC-LzbgP-ZP6oActWwuD7iZRqrk5KjnYZcuCbQwQoqnuo6NvOjNpXZZbxVUBEP_aM5AMvOHW6nPNuvazUlryg1OB4KYWhrpBKYgwLcd3DOkjCYOARa8x-8TSgJg4yrP3sMGRG7mcWJl1urPxCRafruYt2sQ4IzU4QPPDPgDxq5QRCs7YKDfNWuJfbHSP0LhGSarDI2iucIweS5N4N5XiVUi4m2PRpIbdOzrZOB-zIExKLcTwVEVluif6AoMm9DpMKmxKE6mCd03Luj6Jj2JCt6VsNpD8USMAVuy9NVVyF_MLqLvaZVCNwHb0sitbbu4SvxRYib1FD8VgeB5Rk1yOlig_m0kJcNepxCLhX5gHL4Qt72zuq4iqaidDs4rLV_rgFhjLENyDW2jW-Qf5GnPCADUZhmqonU8eVQ8LP8n-BL9-gyykT50sMByn6AbTuHKOqV7MS1-cboGPpDnQsULbi3fzfSNTMACvFwKpzVO7L0nHo7kMYooRehjCeindG8ru9itsldaICUo8b0gqPA2J0BmIYYlEKmRyPNNSZCGIwR8-T0yt0CsfdOp6AkR00xE3MPJ9jORJHJehrxJ6Agp4y9y89Qsb_ugQhIQ-DdEdbvn7jnyH7svNNvxCBoMqXnllWL9fUOfS8s9.m3u8
-#EXTINF:-1,CANAL 13 HD
+#EXTINF:0,VIP LAT: Telefe HD
+#EXTGRP:unsorted
+http://livego.club:8080/AWRJCZR9Mv/jY0tcSEWsg/14283
+#EXTINF:0,Argentina: 24/7 Noticias
+#EXTGRP:unsorted
+http://livego.club:8080/AWRJCZR9Mv/jY0tcSEWsg/27184
+#EXTINF:0,Argentina: A24 FHD*
+#EXTGRP:unsorted
+http://livego.club:8080/AWRJCZR9Mv/jY0tcSEWsg/27183
+#EXTINF:0,Argentina: A24 HD*
+#EXTGRP:unsorted
+http://livego.club:8080/AWRJCZR9Mv/jY0tcSEWsg/27182
+#EXTINF:0,Argentina: America TV FHD*
+#EXTGRP:unsorted
+http://livego.club:8080/AWRJCZR9Mv/jY0tcSEWsg/27180
+#EXTINF:0,Argentina: America TV HD
+#EXTGRP:unsorted
+http://livego.club:8080/AWRJCZR9Mv/jY0tcSEWsg/27179
+#EXTINF:0,Argentina: C5N HD*
+#EXTGRP:unsorted
+http://livego.club:8080/AWRJCZR9Mv/jY0tcSEWsg/27178
+#EXTINF:0,Argentina: Canal 26 Noticias HD*
+#EXTGRP:unsorted
+http://livego.club:8080/AWRJCZR9Mv/jY0tcSEWsg/27177
+#EXTINF:0,Argentina: Canal 4 Esquel
+#EXTGRP:unsorted
+http://livego.club:8080/AWRJCZR9Mv/jY0tcSEWsg/27176
+#EXTINF:0,Argentina: Canal 9 Salta
+#EXTGRP:unsorted
+http://livego.club:8080/AWRJCZR9Mv/jY0tcSEWsg/27175
+#EXTINF:0,Argentina: CINE.AR HD*
+#EXTGRP:unsorted
+http://livego.club:8080/AWRJCZR9Mv/jY0tcSEWsg/27174
+#EXTINF:0,Argentina: CN23 HD*
+#EXTGRP:unsorted
+http://livego.club:8080/AWRJCZR9Mv/jY0tcSEWsg/27173
+#EXTINF:0,Argentina: Cronica Television HD*
+#EXTGRP:unsorted
+http://livego.club:8080/AWRJCZR9Mv/jY0tcSEWsg/27172
+#EXTINF:0,Argentina: DeporTV FHD*
+#EXTGRP:unsorted
+http://livego.club:8080/AWRJCZR9Mv/jY0tcSEWsg/27171
+#EXTINF:0,Argentina: DeporTV HD*
+#EXTGRP:unsorted
+http://livego.club:8080/AWRJCZR9Mv/jY0tcSEWsg/27170
+#EXTINF:0,Argentina: El Garage TV HD
+#EXTGRP:unsorted
+http://livego.club:8080/AWRJCZR9Mv/jY0tcSEWsg/27169
+#EXTINF:0,Argentina: El Nueve FHD*
+#EXTGRP:unsorted
+http://livego.club:8080/AWRJCZR9Mv/jY0tcSEWsg/27168
+#EXTINF:0,Argentina: El Nueve HD*
+#EXTGRP:unsorted
+http://livego.club:8080/AWRJCZR9Mv/jY0tcSEWsg/27167
+#EXTINF:0,Argentina: El Rural HD*
+#EXTGRP:unsorted
+http://livego.club:8080/AWRJCZR9Mv/jY0tcSEWsg/27166
+#EXTINF:0,Argentina: El trece FHD*
+#EXTGRP:unsorted
+http://livego.club:8080/AWRJCZR9Mv/jY0tcSEWsg/27165
+#EXTINF:0,Argentina: El trece HD*
+#EXTGRP:unsorted
+http://livego.club:8080/AWRJCZR9Mv/jY0tcSEWsg/27164
+#EXTINF:0,Argentina: Fox Sports 1
+#EXTGRP:unsorted
+http://livego.club:8080/AWRJCZR9Mv/jY0tcSEWsg/27162
+#EXTINF:0,Argentina: Fox Sports 2
+#EXTGRP:unsorted
+http://livego.club:8080/AWRJCZR9Mv/jY0tcSEWsg/27161
+#EXTINF:0,Argentina: Fox Sports Premium FHD
+#EXTGRP:unsorted
+http://livego.club:8080/AWRJCZR9Mv/jY0tcSEWsg/27160
+#EXTINF:0,Argentina: Fox Sports Premium HD
+#EXTGRP:unsorted
+http://livego.club:8080/AWRJCZR9Mv/jY0tcSEWsg/27159
+#EXTINF:0,Argentina: LN Mas HD*
+#EXTGRP:unsorted
+http://livego.club:8080/AWRJCZR9Mv/jY0tcSEWsg/27158
+#EXTINF:0,Argentina: Net TV FHD
+#EXTGRP:unsorted
+http://livego.club:8080/AWRJCZR9Mv/jY0tcSEWsg/27157
+#EXTINF:0,Argentina: Net TV HD
+#EXTGRP:unsorted
+http://livego.club:8080/AWRJCZR9Mv/jY0tcSEWsg/27156
+#EXTINF:0,Argentina: Telefe FHD*
+#EXTGRP:unsorted
+http://livego.club:8080/AWRJCZR9Mv/jY0tcSEWsg/27152
+#EXTINF:0,Argentina: Telefe HD*
+#EXTGRP:unsorted
+http://livego.club:8080/AWRJCZR9Mv/jY0tcSEWsg/27151
+#EXTINF:0,Argentina: Telemax
+#EXTGRP:unsorted
+http://livego.club:8080/AWRJCZR9Mv/jY0tcSEWsg/27150
+#EXTINF:0,Argentina: Television Publica FHD*
+#EXTGRP:unsorted
+http://livego.club:8080/AWRJCZR9Mv/jY0tcSEWsg/27149
+#EXTINF:0,Argentina: Television Publica HD*
+#EXTGRP:unsorted
+http://livego.club:8080/AWRJCZR9Mv/jY0tcSEWsg/27148
+#EXTINF:0,Argentina: TN Buenos Aires
+#EXTGRP:unsorted
+http://livego.club:8080/AWRJCZR9Mv/jY0tcSEWsg/27147
+#EXTINF:0,Argentina: TNT Sports HD
+#EXTGRP:unsorted
+http://livego.club:8080/AWRJCZR9Mv/jY0tcSEWsg/27146
+#EXTINF:0,Argentina: TR Telered
+#EXTGRP:unsorted
+http://livego.club:8080/AWRJCZR9Mv/jY0tcSEWsg/27145
+#EXTINF:0,Argentina: Trece Max HD
+#EXTGRP:unsorted
+http://livego.club:8080/AWRJCZR9Mv/jY0tcSEWsg/27144
+#EXTINF:0,Argentina: TyC Sports FHD
+#EXTGRP:unsorted
+http://livego.club:8080/AWRJCZR9Mv/jY0tcSEWsg/27143
+#EXTINF:0,Argentina: TyC Sports HD
+#EXTGRP:unsorted
+http://livego.club:8080/AWRJCZR9Mv/jY0tcSEWsg/27142
+#EXTINF:0,Argentina: TyC Sports Internacional
+#EXTGRP:unsorted
+http://livego.club:8080/AWRJCZR9Mv/jY0tcSEWsg/27141
 
-https://player.twitch.tv/?channel=20k_wtt&enableExtensions=true&muted=true&parent=twitch.tv&player=popout&volume=0.5
