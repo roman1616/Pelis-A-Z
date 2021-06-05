@@ -1,0 +1,87 @@
+#EXTINF:0, -------------------------- FMs CABA ---------------------
+#EXTINF:0, La Tribu 88.7
+http://vivo.fmlatribu.com:8000/latribu.mp3
+#EXTINF:0, Malena 89.1
+http://vivo.radioam750.com.ar/vivofm.mp3
+#EXTINF:0, Arpeggio 89.5
+http://14073.live.streamtheworld.com/ARPEGGIOAAC
+#EXTINF:0, Radio Porteña 89.7
+http://173.193.205.96:7136
+#EXTINF:0, Radio con vos 89.9
+http://server6.stweb.tv:1935/rcvos/live/chunklist.m3u8
+#EXTINF:0, La Boca 90.1
+http://208.98.41.72:9304
+#EXTINF:0, Delta 90.3
+http://radio.mediastre.am/radiodelta.aac
+#EXTINF:0, Vorterix 92.1
+http://192.99.150.52:9904/;
+#EXTINF:0, Zero 92.5
+http://209.95.35.49:7240/Stream
+#EXTINF:0, La 2x4 92.7
+http://radios.argentina.fm:9270/stream
+#EXTINF:0, Late 93.1
+http://streaming.radiolinksmedia.com:8252/;stream
+#EXTINF:0, Nacional Rock 93.7
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad39
+#EXTINF:0, RadioDisney 94.3
+http://disneyargradio-lh.akamaihd.net/i/ARG_Disney_RADIO@102438/master.m3u8
+#EXTINF:0, Metro 95.1
+http://mp3.metroaudio1.stream.avstreaming.net:7200/metro
+#EXTINF:0, Concepto 95.5
+http://servidor.ilive.com.ar:9330/;
+#EXTINF:0, Rock & Pop 95.9
+http://blaster.cdn.sion.com:1935/rockandpop/audioweb/playlist.m3u8
+#EXTINF:0, Nacional Clásica 96.7
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad37
+#EXTINF:0, Mucha radio 97.1
+http://18543.live.streamtheworld.com/MUCHARADIO_SC
+#EXTINF:0, Vale 97.5
+http://vale.stweb.tv:1935/vale/live/playlist.m3u8
+#EXTINF:0, Cultura 97.9
+http://14073.live.streamtheworld.com/RADIOCULTURA_SC
+#EXTINF:0, Mega 98.3
+http://vale.stweb.tv:1935/vale/live/playlist.m3u8
+#EXTINF:0, Nacional Folklorica 98.7
+http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad38
+#EXTINF:0, La 100 99.9 --http-referrer "https://la100.cienradios.com/player/la100/"
+https://buecrplb01.cienradios.com.ar/la100.aac
+#EXTINF:0, Blue 100.7
+http://mp3.metroaudio1.stream.avstreaming.net:7200/bluefmaudio1
+#EXTINF:0, Latina 101.1
+http://streaming.latina101.com.ar:8080/RadioLatina
+#EXTINF:0, Pop 101.5
+http://69.175.20.242:8086/live
+#EXTINF:0, Pop 101.5
+http://popradio.stweb.tv:1935/popradio/live/playlist.m3u8
+#EXTINF:0, La patriada 102.1
+http://server4.stweb.tv:1935/lapatriada/live/master.m3u8
+#EXTINF:0, Aspen 102.3
+http://playerservices.streamtheworld.com/api/livestream-redirect/ASPENAAC
+#EXTINF:0, Radio Uno 103.1
+http://209.95.35.49:7013/live
+#EXTINF:0, Klimax 103.5
+http://streamall.alsolnet.com:443/klimaxok
+#EXTINF:0, Sonido 103.5
+http://streamall.alsolnet.com:443/fmsonidohd?type=.flv
+#EXTINF:0, One 103.7
+http://server5.stweb.tv:1935/one/live/playlist.m3u8
+#EXTINF:0, RQP 104.3
+http://14933.live.streamtheworld.com/RQPAAC
+#EXTINF:0, Los 40 105.5
+http://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_ARGENTINAAAC
+#EXTINF:0, Milenium 106.7
+http://50.22.212.205:8078/;
+#EXTINF:0, ESPN 107.9
+http://apiradio.espn-la.com/64list.m3u8
+#EXTINF:0, -------------------------- FMs Onlines ---------------------
+#EXTINF:0, Futurock
+http://radio1.us.mediastre.am/futurockargentina.aac
+#EXTINF:0, Relatores
+http://relay.relatores.com.ar/radio.mp3
+#EXTINF:0, energynet.fm
+http://sc02.yertel.com:8094/;stream.mp3
+#EXTINF:0, -------------------------- FMs La Plata ---------------------
+#EXTINF:0, estacion sur 91.7
+http://209.95.35.49:7172/stream
+#EXTINF:0, Blue 105.3
+http://01.solumedia.com.ar:8094/;stream.nsv
