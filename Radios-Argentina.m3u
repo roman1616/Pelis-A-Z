@@ -1,4 +1,5 @@
 #EXTINF:0, -------------------------- FMs CABA ---------------------
 
-#EXTINF:0, Mega 98.3 tvg-logo=https://static.mytuner.mobi/media/radios-150px/T6DPeFDmYv.jpg
+#EXTINF:0, Mega 98.3 
+#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/radios-150px/T6DPeFDmYv.jpg"
 http://vale.stweb.tv:1935/vale/live/playlist.m3u8
