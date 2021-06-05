@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Mega" tvg-name="La Mega" tvg-country="ARG" tvg-language="español" tvg-logo="https://static.mytuner.mobi/media/radios-150px/T6DPeFDmYv.jpg" group-title="Radio",LA MEGA 98.3
+#EXTINF:-1 tvg-name="La Mega" tvg-country="ARG" tvg-language="español" tvg-logo="https://static.mytuner.mobi/media/radios-150px/T6DPeFDmYv.jpg" group-title="Radio",LA MEGA 98.3
 http://vale.stweb.tv:1935/vale/live/playlist.m3u8
