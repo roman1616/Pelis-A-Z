@@ -4,3 +4,6 @@ http://vale.stweb.tv:1935/vale/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mega" tvg-name="La Mega" tvg-country="ARG" tvg-language="español" tvg-logo="https://static.mytuner.mobi/media/radios-150px/T6DPeFDmYv.jpg" group-title="Radio",LA MEGA 98.3
 https://mega.stweb.tv/mega983/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LOS 40" tvg-name="LOS 40" tvg-country="ARG" tvg-language="español" tvg-logo="https://cdn.webrad.io/images/logos/radioarg-com/los-40-principales.png" group-title="Radio",LA MEGA 98.3
+https://mega.stweb.tv/mega983/live/playlist.m3u8
