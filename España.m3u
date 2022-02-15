@@ -35,6 +35,554 @@ http://79591759955268039.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268039
 http://79591759955268040.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268040
 #EXTINF:-1 tvg-id="lasexta.es" tvg-name="ES: LA SEXTA SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/SEXTA" group-title="ES 01 MOVISTAR+ VIP",ES: LA SEXTA SD
 http://79591759955268041.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268041
+#EXTINF:-1 tvg-id="0.es" tvg-name="ES: #0 FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/MV3" group-title="ES 01 MOVISTAR+ VIP",ES: #0 FHD
+http://79591759955267789.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267789
+#EXTINF:-1 tvg-id="#0 HD" tvg-name="ES: #0 HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/MV3" group-title="ES 01 MOVISTAR+ VIP",ES: #0 HD
+http://79591759955267790.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267790
+#EXTINF:-1 tvg-id="vamos.es" tvg-name="ES: #VAMOS FHD (H.265)" tvg-logo="http://vipstreamtv.ddns.net:8000/images/f14c44c6299309030dc82d903ff474e1.png" group-title="ES 07 MOVISTAR + H265",ES: #VAMOS FHD (H.265)
+http://79591759955262409.nicebig.xyz:80/Q5KEPXNAYC/1930269439/262409
+#EXTINF:-1 tvg-id="movistarseries.es" tvg-name="ES: MOVISTAR SERIES FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPSER" group-title="ES 01 MOVISTAR+ VIP",ES: MOVISTAR SERIES FHD
+http://79591759955268101.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268101
+#EXTINF:-1 tvg-id="M. SERIES HD" tvg-name="ES: MOVISTAR SERIES HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPSER" group-title="ES 01 MOVISTAR+ VIP",ES: MOVISTAR SERIES HD
+http://79591759955268102.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268102
+#EXTINF:-1 tvg-id="M. SERIES HD" tvg-name="ES: MOVISTAR SERIES SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPSER" group-title="ES 01 MOVISTAR+ VIP",ES: MOVISTAR SERIES SD
+http://79591759955268103.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268103
+
+#EXTINF:-1 tvg-id="M. SERIES 2 HD" tvg-name="ES: MOVISTAR SERIES 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/CPSER.png" group-title="ES 01 MOVISTAR+ VIP",ES: MOVISTAR SERIES 2 FHD
+http://79591759955268098.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268098
+#EXTINF:-1 tvg-id="M. SERIES 2 HD" tvg-name="ES: MOVISTAR SERIES 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/CPSER.png" group-title="ES 01 MOVISTAR+ VIP",ES: MOVISTAR SERIES 2 SD
+http://79591759955268100.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268100
+#EXTINF:-1 tvg-id="M. SERIES 2 HD" tvg-name="ES: MOVISTAR SERIES 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/CPSER.png" group-title="ES 01 MOVISTAR+ VIP",ES: MOVISTAR SERIES 2 HD
+http://79591759955277430.nicebig.xyz:80/Q5KEPXNAYC/1930269439/277430
+
+
+#EXTINF:-1 tvg-id="FOX FHD" tvg-name="ES: FOX FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/FOXGE" group-title="ES 01 MOVISTAR+ VIP",ES: FOX FHD
+http://79591759955268000.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268000
+#EXTINF:-1 tvg-id="FOX HD" tvg-name="ES: FOX HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/FOXGE" group-title="ES 01 MOVISTAR+ VIP",ES: FOX HD
+http://79591759955268001.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268001
+#EXTINF:-1 tvg-id="fox.es" tvg-name="ES: FOX SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/FOXGE" group-title="ES 01 MOVISTAR+ VIP",ES: FOX SD
+http://79591759955268006.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268006
+#EXTINF:-1 tvg-id="AXN FHD" tvg-name="ES: AXN FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/AXN" group-title="ES 01 MOVISTAR+ VIP",ES: AXN FHD
+http://79591759955267828.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267828
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="ES: AXN HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/AXN" group-title="ES 01 MOVISTAR+ VIP",ES: AXN HD
+http://79591759955267829.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267829
+#EXTINF:-1 tvg-id="axn.es" tvg-name="ES: AXN SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/AXN" group-title="ES 01 MOVISTAR+ VIP",ES: AXN SD
+http://79591759955267830.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267830
+#EXTINF:-1 tvg-id="TNT FHD" tvg-name="ES: TNT FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/TNT" group-title="ES 01 MOVISTAR+ VIP",ES: TNT FHD
+http://79591759955268191.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268191
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="ES: TNT HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/TNT" group-title="ES 01 MOVISTAR+ VIP",ES: TNT HD
+http://79591759955268192.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268192
+#EXTINF:-1 tvg-id="tnt.es" tvg-name="ES: TNT SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/TNT" group-title="ES 01 MOVISTAR+ VIP",ES: TNT SD
+http://79591759955268193.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268193
+#EXTINF:-1 tvg-id="comedycentral.es" tvg-name="ES: COMEDY CENTRAL FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/PCM" group-title="ES 01 MOVISTAR+ VIP",ES: COMEDY CENTRAL FHD
+http://79591759955267905.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267905
+#EXTINF:-1 tvg-id="COMEDYCENTRAL HD" tvg-name="ES: COMEDY CENTRAL HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/PCM" group-title="ES 01 MOVISTAR+ VIP",ES: COMEDY CENTRAL HD
+http://79591759955267907.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267907
+#EXTINF:-1 tvg-id="CALLE 13 FHD" tvg-name="ES: CALLE 13 FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CL13" group-title="ES 01 MOVISTAR+ VIP",ES: CALLE 13 FHD
+http://79591759955267871.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267871
+#EXTINF:-1 tvg-id="CALLE 13 HD" tvg-name="ES: CALLE 13 HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CL13" group-title="ES 01 MOVISTAR+ VIP",ES: CALLE 13 HD
+http://79591759955267872.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267872
+#EXTINF:-1 tvg-id="calle13.es" tvg-name="ES: CALLE 13 SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CL13" group-title="ES 01 MOVISTAR+ VIP",ES: CALLE 13 SD
+http://79591759955267873.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267873
+#EXTINF:-1 tvg-id="COSMO FHD" tvg-name="ES: COSMO FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/COSMO" group-title="ES 01 MOVISTAR+ VIP",ES: COSMO FHD
+http://79591759955267910.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267910
+#EXTINF:-1 tvg-id="COSMO HD" tvg-name="ES: COSMO HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/COSMO" group-title="ES 01 MOVISTAR+ VIP",ES: COSMO HD
+http://79591759955267911.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267911
+#EXTINF:-1 tvg-id="" tvg-name="ES: COSMOS HD" tvg-logo="" group-title="ES 01 MOVISTAR+ VIP",ES: COSMOS HD
+http://79591759955267913.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267913
+#EXTINF:-1 tvg-id="AMC FHD" tvg-name="ES: AMC FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/AMC" group-title="ES 01 MOVISTAR+ VIP",ES: AMC FHD
+http://79591759955267815.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267815
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="ES: AMC HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/AMC" group-title="ES 01 MOVISTAR+ VIP",ES: AMC HD
+http://79591759955267816.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267816
+#EXTINF:-1 tvg-id="amc.es" tvg-name="ES: AMC SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/AMC" group-title="ES 01 MOVISTAR+ VIP",ES: AMC SD
+http://79591759955267817.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267817
+#EXTINF:-1 tvg-id="FOX LIFE FHD" tvg-name="ES: FOX LIFE FHD" tvg-logo="http://live.fauconteam.com/logo/foxlifehd.png" group-title="ES 01 MOVISTAR+ VIP",ES: FOX LIFE FHD
+http://79591759955268002.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268002
+#EXTINF:-1 tvg-id="FOX LIFE HD" tvg-name="ES: FOX LIFE HD" tvg-logo="http://live.fauconteam.com/foxlifehd.png" group-title="ES 01 MOVISTAR+ VIP",ES: FOX LIFE HD
+http://79591759955268003.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268003
+#EXTINF:-1 tvg-id="foxlife.es" tvg-name="ES: FOX LIFE SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/FOXCR" group-title="ES 01 MOVISTAR+ VIP",ES: FOX LIFE SD
+http://79591759955268004.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268004
+#EXTINF:-1 tvg-id="AXN WHITE FHD" tvg-name="ES: AXN WHITE FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/SET" group-title="ES 01 MOVISTAR+ VIP",ES: AXN WHITE FHD
+http://79591759955267831.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267831
+#EXTINF:-1 tvg-id="AXN WHITE HD" tvg-name="ES: AXN WHITE HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/SET" group-title="ES 01 MOVISTAR+ VIP",ES: AXN WHITE HD
+http://79591759955267832.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267832
+#EXTINF:-1 tvg-id="axnwhite.es" tvg-name="ES: AXN WHITE SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/SET" group-title="ES 01 MOVISTAR+ VIP",ES: AXN WHITE SD
+http://79591759955267833.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267833
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR LA RESISTENCIA HD" tvg-logo="" group-title="ES 01 MOVISTAR+ VIP",ES: MOVISTAR LA RESISTENCIA HD
+http://79591759955288120.nicebig.xyz:80/Q5KEPXNAYC/1930269439/288120
+#EXTINF:-1 tvg-id="factoriaficcion.es" tvg-name="ES: FDF FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/FDFIC" group-title="ES 01 MOVISTAR+ VIP",ES: FDF FHD
+http://79591759955267997.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267997
+#EXTINF:-1 tvg-id="factoriaficcion.es" tvg-name="ES: FDF HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/FDFIC" group-title="ES 01 MOVISTAR+ VIP",ES: FDF HD
+http://79591759955267998.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267998
+#EXTINF:-1 tvg-id="factoriaficcion.es" tvg-name="ES: FDF SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/FDFIC" group-title="ES 01 MOVISTAR+ VIP",ES: FDF SD
+http://79591759955267999.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267999
+#EXTINF:-1 tvg-id="Neox.TV" tvg-name="ES: NEOX FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/NEOX" group-title="ES 01 MOVISTAR+ VIP",ES: NEOX FHD
+http://79591759955268132.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268132
+#EXTINF:-1 tvg-id="Neox.TV" tvg-name="ES: NEOX HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/NEOX" group-title="ES 01 MOVISTAR+ VIP",ES: NEOX HD
+http://79591759955268133.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268133
+#EXTINF:-1 tvg-id="Neox.TV" tvg-name="ES: NEOX SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/NEOX" group-title="ES 01 MOVISTAR+ VIP",ES: NEOX SD
+http://79591759955268134.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268134
+#EXTINF:-1 tvg-id="Atreseries HD" tvg-name="ES: ATRESERIES FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ATRESS" group-title="ES 01 MOVISTAR+ VIP",ES: ATRESERIES FHD
+http://79591759955267824.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267824
+#EXTINF:-1 tvg-id="Atreseries HD" tvg-name="ES: ATRESERIES HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ATRESS" group-title="ES 01 MOVISTAR+ VIP",ES: ATRESERIES HD
+http://79591759955267825.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267825
+#EXTINF:-1 tvg-id="Atreseries HD" tvg-name="ES: ATRESERIES SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ATRESS" group-title="ES 01 MOVISTAR+ VIP",ES: ATRESERIES SD
+http://79591759955267826.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267826
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR BIOGRAFIAS HD" tvg-logo="" group-title="ES 01 MOVISTAR+ VIP",ES: MOVISTAR BIOGRAFIAS HD
+http://79591759955286220.nicebig.xyz:80/Q5KEPXNAYC/1930269439/286220
+#EXTINF:-1 tvg-id="M.ESTRENOS FHD" tvg-name="ES: MOVISTAR ESTRENOS FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/MV1" group-title="ES 01 MOVISTAR+ VIP",ES: MOVISTAR ESTRENOS FHD
+http://79591759955268086.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268086
+#EXTINF:-1 tvg-id="M.ESTRENOS HD" tvg-name="ES: MOVISTAR ESTRENOS HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/MV1" group-title="ES 01 MOVISTAR+ VIP",ES: MOVISTAR ESTRENOS HD
+http://79591759955268087.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268087
+#EXTINF:-1 tvg-id="movistarestrenos.es" tvg-name="ES: MOVISTAR ESTRENOS SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/MV1" group-title="ES 01 MOVISTAR+ VIP",ES: MOVISTAR ESTRENOS SD
+http://79591759955268088.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268088
+#EXTINF:-1 tvg-id="M.ESTRENOS FHD" tvg-name="ES: MOVISTAR ESTRENOS FHD (H.265)" tvg-logo="http://vipstreamtv.ddns.net:8000/images/3fb30a5886fc5a7abde540e76be475eb.png" group-title="ES 07 MOVISTAR + H265",ES: MOVISTAR ESTRENOS FHD (H.265)
+http://79591759955273379.nicebig.xyz:80/Q5KEPXNAYC/1930269439/273379
+#EXTINF:-1 tvg-id="M. ESTRENOS 2 HD" tvg-name="ES: MOVISTAR ESTRENOS 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/MEST2.png" group-title="ES 01 MOVISTAR+ VIP",ES: MOVISTAR ESTRENOS 2 FHD
+http://79591759955273835.nicebig.xyz:80/Q5KEPXNAYC/1930269439/273835
+#EXTINF:-1 tvg-id="M. ESTRENOS 2 HD" tvg-name="ES: MOVISTAR ESTRENOS 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/MEST2.png" group-title="ES 01 MOVISTAR+ VIP",ES: MOVISTAR ESTRENOS 2 HD
+http://79591759955273836.nicebig.xyz:80/Q5KEPXNAYC/1930269439/273836
+#EXTINF:-1 tvg-id="M. ESTRENOS 2 HD" tvg-name="ES: MOVISTAR ESTRENOS 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/ficha_m/MEST2.png" group-title="ES 01 MOVISTAR+ VIP",ES: MOVISTAR ESTRENOS 2 SD
+http://79591759955273837.nicebig.xyz:80/Q5KEPXNAYC/1930269439/273837
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR CLASICOS FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="ES 01 MOVISTAR+ VIP",ES: MOVISTAR CLASICOS FHD
+http://79591759955279315.nicebig.xyz:80/Q5KEPXNAYC/1930269439/279315
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR CLASICOS HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="ES 01 MOVISTAR+ VIP",ES: MOVISTAR CLASICOS HD
+http://79591759955279316.nicebig.xyz:80/Q5KEPXNAYC/1930269439/279316
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR CLASICOS SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="ES 01 MOVISTAR+ VIP",ES: MOVISTAR CLASICOS SD
+http://79591759955279317.nicebig.xyz:80/Q5KEPXNAYC/1930269439/279317
+#EXTINF:-1 tvg-id="M. ACCION FHD" tvg-name="ES: MOVISTAR ACCION HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPACCI" group-title="ES 01 MOVISTAR+ VIP",ES: MOVISTAR ACCION HD
+http://79591759955268054.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268054
+#EXTINF:-1 tvg-id="M. ACCION HD" tvg-name="ES: MOVISTAR ACCION HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPACCI" group-title="ES 01 MOVISTAR+ VIP",ES: MOVISTAR ACCION HD
+http://79591759955268055.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268055
+#EXTINF:-1 tvg-id="movistaraccion.es" tvg-name="ES: MOVISTAR ACCION SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPACCI" group-title="ES 01 MOVISTAR+ VIP",ES: MOVISTAR ACCION SD
+http://79591759955268056.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268056
+#EXTINF:-1 tvg-id="movistarcomedia.es" tvg-name="ES: MOVISTAR COMEDIA FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPCOME" group-title="ES 01 MOVISTAR+ VIP",ES: MOVISTAR COMEDIA FHD
+http://79591759955268060.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268060
+#EXTINF:-1 tvg-id="M.COMEDIA HD" tvg-name="ES: MOVISTAR COMEDIA HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPCOME" group-title="ES 01 MOVISTAR+ VIP",ES: MOVISTAR COMEDIA HD
+http://79591759955268061.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268061
+#EXTINF:-1 tvg-id="M.COMEDIA" tvg-name="ES: MOVISTAR COMEDIA SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPCOME" group-title="ES 01 MOVISTAR+ VIP",ES: MOVISTAR COMEDIA SD
+http://79591759955268062.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268062
+#EXTINF:-1 tvg-id="mdrama.es" tvg-name="ES: MOVISTAR DRAMA FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPCOLE" group-title="ES 01 MOVISTAR+ VIP",ES: MOVISTAR DRAMA FHD
+http://79591759955268076.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268076
+#EXTINF:-1 tvg-id="M. DRAMA HD" tvg-name="ES: MOVISTAR DRAMA HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPCOLE" group-title="ES 01 MOVISTAR+ VIP",ES: MOVISTAR DRAMA HD
+http://79591759955268077.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268077
+#EXTINF:-1 tvg-id="moviestardrama.es" tvg-name="ES: MOVISTAR DRAMA SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CPCOLE" group-title="ES 01 MOVISTAR+ VIP",ES: MOVISTAR DRAMA SD
+http://79591759955268078.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268078
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DCINE Ñ HD" tvg-logo="" group-title="ES 01 MOVISTAR+ VIP",ES: MOVISTAR DCINE Ñ HD
+http://79591759955279855.nicebig.xyz:80/Q5KEPXNAYC/1930269439/279855
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR FEST FHD" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2020/06/movistarfest.png" group-title="ES 01 MOVISTAR+ VIP",ES: MOVISTAR FEST FHD
+http://79591759955277427.nicebig.xyz:80/Q5KEPXNAYC/1930269439/277427
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR FEST HD" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2020/06/movistarfest.png" group-title="ES 01 MOVISTAR+ VIP",ES: MOVISTAR FEST HD
+http://79591759955277428.nicebig.xyz:80/Q5KEPXNAYC/1930269439/277428
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR FEST SD" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2020/06/movistarfest.png" group-title="ES 01 MOVISTAR+ VIP",ES: MOVISTAR FEST SD
+http://79591759955277429.nicebig.xyz:80/Q5KEPXNAYC/1930269439/277429
+#EXTINF:-1 tvg-id="tcm.es" tvg-name="ES: TCM FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/TCM" group-title="ES 01 MOVISTAR+ VIP",ES: TCM FHD
+http://79591759955268177.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268177
+#EXTINF:-1 tvg-id="TCM HD" tvg-name="ES: TCM HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/TCM" group-title="ES 01 MOVISTAR+ VIP",ES: TCM HD
+http://79591759955268178.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268178
+#EXTINF:-1 tvg-id="TCM HD" tvg-name="ES: TCM SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/TCM" group-title="ES 01 MOVISTAR+ VIP",ES: TCM SD
+http://79591759955268179.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268179
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="ES: CANAL HOLLYWOOD FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c73c2ebbf54973444442514e503aee41.png" group-title="ES 01 MOVISTAR+ VIP",ES: CANAL HOLLYWOOD FHD
+http://79591759955267926.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267926
+#EXTINF:-1 tvg-id="HOLLYWOOD FHD" tvg-name="ES: HOLLYWOOD FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Canal_Hollywood.png" group-title="ES 01 MOVISTAR+ VIP",ES: HOLLYWOOD FHD
+http://79591759955268020.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268020
+#EXTINF:-1 tvg-id="HOLLYWOOD HD" tvg-name="ES: HOLLYWOOD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Canal_Hollywood.png" group-title="ES 01 MOVISTAR+ VIP",ES: HOLLYWOOD HD
+http://79591759955268021.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268021
+#EXTINF:-1 tvg-id="hollywood.es" tvg-name="ES: HOLLYWOOD SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Canal_Hollywood.png" group-title="ES 01 MOVISTAR+ VIP",ES: HOLLYWOOD SD
+http://79591759955268022.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268022
+#EXTINF:-1 tvg-id="sundance.es" tvg-name="ES: SUNDANCE FHD" tvg-logo="http://www.sundancetv.es/wp-content/themes/amcn-sundance-global/assets/images/sundance_placeholder_16x9.png" group-title="ES 01 MOVISTAR+ VIP",ES: SUNDANCE FHD
+http://79591759955268166.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268166
+#EXTINF:-1 tvg-id="sundance.es" tvg-name="ES: SUNDANCE HD" tvg-logo="http://www.sundancetv.es/wp-content/themes/amcn-sundance-global/assets/images/sundance_placeholder_16x9.png" group-title="ES 01 MOVISTAR+ VIP",ES: SUNDANCE HD
+http://79591759955268167.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268167
+#EXTINF:-1 tvg-id="SUNDANCE TV" tvg-name="ES: SUNDANCE SD" tvg-logo="http://www.sundancetv.es/wp-content/themes/amcn-sundance-global/assets/images/sundance_placeholder_16x9.png" group-title="ES 01 MOVISTAR+ VIP",ES: SUNDANCE SD
+http://79591759955268168.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268168
+#EXTINF:-1 tvg-id="dark.es" tvg-name="ES: CANAL DARK HD" tvg-logo="https://fest.darktv.es/media/concursos/darkfest/img/darkfoot.png" group-title="ES 01 MOVISTAR+ VIP",ES: CANAL DARK HD
+http://79591759955267880.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267880
+#EXTINF:-1 tvg-id="dark.es" tvg-name="ES: CANAL DARK SD" tvg-logo="https://fest.darktv.es/media/concursos/darkfest/img/darkfoot.png" group-title="ES 01 MOVISTAR+ VIP",ES: CANAL DARK SD
+http://79591759955267881.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267881
+#EXTINF:-1 tvg-id="" tvg-name="ES: TRECE HD" tvg-logo="http://graph.facebook.com/TRECEtves/picture?width=320&height=320" group-title="ES 02 AUTONOMICOS",ES: TRECE HD
+http://79591759955165346.nicebig.xyz:80/Q5KEPXNAYC/1930269439/165346
+#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="ES: PARAMOUNT CHANNEL HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/PARCH" group-title="ES 01 MOVISTAR+ VIP",ES: PARAMOUNT CHANNEL HD
+http://79591759955268154.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268154
+#EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="ES: PARAMOUNT CHANNEL SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/PARCH" group-title="ES 01 MOVISTAR+ VIP",ES: PARAMOUNT CHANNEL SD
+http://79591759955268155.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268155
+#EXTINF:-1 tvg-id="paramountchannel.es" tvg-name="ES: PARAMOUNT NETWORK HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/57ee199bc6bfdff7e9f893f47d366195.png" group-title="ES 01 MOVISTAR+ VIP",ES: PARAMOUNT NETWORK HD
+http://79591759955268157.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268157
+#EXTINF:-1 tvg-id="M. LaLiga HD" tvg-name="ES: M LALIGA FHD" tvg-logo="https://files.laliga.es/seccion_logos/laliga-h-1200x1200_2018.png" group-title="ES 03 MOVISTAR + LALIGA",ES: M LALIGA FHD
+http://79591759955165385.nicebig.xyz:80/Q5KEPXNAYC/1930269439/165385
+#EXTINF:-1 tvg-id="M. LaLiga HD" tvg-name="ES: M LALIGA HD" tvg-logo="https://files.laliga.es/seccion_logos/laliga-h-1200x1200_2018.png" group-title="ES 03 MOVISTAR + LALIGA",ES: M LALIGA HD
+http://79591759955165392.nicebig.xyz:80/Q5KEPXNAYC/1930269439/165392
+#EXTINF:-1 tvg-id="M. LaLiga HD" tvg-name="ES: M LALIGA SD" tvg-logo="https://files.laliga.es/seccion_logos/laliga-h-1200x1200_2018.png" group-title="ES 03 MOVISTAR + LALIGA",ES: M LALIGA SD
+http://79591759955165393.nicebig.xyz:80/Q5KEPXNAYC/1930269439/165393
+#EXTINF:-1 tvg-id="M. LaLiga FHD" tvg-name="ES: LA LIGA FHD (H 265)" tvg-logo="https://files.laliga.es/seccion_logos/laliga-h-1200x1200_2018.png" group-title="ES 03 MOVISTAR + LALIGA",ES: LA LIGA FHD (H 265)
+http://79591759955262413.nicebig.xyz:80/Q5KEPXNAYC/1930269439/262413
+#EXTINF:-1 tvg-id="" tvg-name="ES: M LALIGA MULTI 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="ES 03 MOVISTAR + LALIGA",ES: M LALIGA MULTI 1 HD
+http://79591759955165396.nicebig.xyz:80/Q5KEPXNAYC/1930269439/165396
+#EXTINF:-1 tvg-id="" tvg-name="ES: M LALIGA MULTI 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" group-title="ES 03 MOVISTAR + LALIGA",ES: M LALIGA MULTI 2 HD
+http://79591759955165398.nicebig.xyz:80/Q5KEPXNAYC/1930269439/165398
+#EXTINF:-1 tvg-id="" tvg-name="ES: M LALIGA MULTI 3 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG3.png" group-title="ES 03 MOVISTAR + LALIGA",ES: M LALIGA MULTI 3 HD
+http://79591759955165400.nicebig.xyz:80/Q5KEPXNAYC/1930269439/165400
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAPIO.png" group-title="ES 04 M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES FHD
+http://79591759955246282.nicebig.xyz:80/Q5KEPXNAYC/1930269439/246282
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAPIO.png" group-title="ES 04 M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES HD
+http://79591759955165358.nicebig.xyz:80/Q5KEPXNAYC/1930269439/165358
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAPIO.png" group-title="ES 04 M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES SD
+http://79591759955165359.nicebig.xyz:80/Q5KEPXNAYC/1930269439/165359
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES FHD (H.265)" tvg-logo="http://tegustalatele.vip:8000/images/2522338a0f3b7a6fc14491e053518c60.png" group-title="ES 04 M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES FHD (H.265)
+http://79591759955262412.nicebig.xyz:80/Q5KEPXNAYC/1930269439/262412
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 4K" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAPIO.png" group-title="ES 04 M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 4K
+http://79591759955282468.nicebig.xyz:80/Q5KEPXNAYC/1930269439/282468
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 1 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAPIO.png" group-title="ES 04 M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 1 FHD
+http://79591759955282456.nicebig.xyz:80/Q5KEPXNAYC/1930269439/282456
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 1 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAPIO.png" group-title="ES 04 M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 1 HD
+http://79591759955165360.nicebig.xyz:80/Q5KEPXNAYC/1930269439/165360
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 1 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAPIO.png" group-title="ES 04 M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 1 SD
+http://79591759955282457.nicebig.xyz:80/Q5KEPXNAYC/1930269439/282457
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 2 FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAPIO.png" group-title="ES 04 M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 2 FHD
+http://79591759955165365.nicebig.xyz:80/Q5KEPXNAYC/1930269439/165365
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CHAPIO.png" group-title="ES 04 M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 2 HD
+http://79591759955282469.nicebig.xyz:80/Q5KEPXNAYC/1930269439/282469
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 2 SD" tvg-logo="http://tegustalatele.vip:8000/images/logos/campeones2.png" group-title="ES 04 M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 2 SD
+http://79591759955282458.nicebig.xyz:80/Q5KEPXNAYC/1930269439/282458
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 2 SD EXTRA" tvg-logo="http://tegustalatele.vip:8000/images/logos/campeones2.png" group-title="ES 04 M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 2 SD EXTRA
+http://79591759955282459.nicebig.xyz:80/Q5KEPXNAYC/1930269439/282459
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 3 HD" tvg-logo="http://tegustalatele.vip:8000/images/logos/campeones3.png" group-title="ES 04 M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 3 HD
+http://79591759955282470.nicebig.xyz:80/Q5KEPXNAYC/1930269439/282470
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 3 HD (OP1)" tvg-logo="http://tegustalatele.vip:8000/images/logos/campeones3.png" group-title="ES 04 M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 3 HD (OP1)
+http://79591759955282471.nicebig.xyz:80/Q5KEPXNAYC/1930269439/282471
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 4 HD" tvg-logo="http://tegustalatele.vip:8000/images/logos/campeones4.png" group-title="ES 04 M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 4 HD
+http://79591759955282472.nicebig.xyz:80/Q5KEPXNAYC/1930269439/282472
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 4 HD (OP1)" tvg-logo="http://tegustalatele.vip:8000/images/logos/campeones4.png" group-title="ES 04 M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 4 HD (OP1)
+http://79591759955282473.nicebig.xyz:80/Q5KEPXNAYC/1930269439/282473
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 5 HD" tvg-logo="http://tegustalatele.vip:8000/images/logos/campeones5.png" group-title="ES 04 M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 5 HD
+http://79591759955282460.nicebig.xyz:80/Q5KEPXNAYC/1930269439/282460
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 5 HD (OP1)" tvg-logo="http://tegustalatele.vip:8000/images/logos/campeones5.png" group-title="ES 04 M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 5 HD (OP1)
+http://79591759955282461.nicebig.xyz:80/Q5KEPXNAYC/1930269439/282461
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 6 HD" tvg-logo="http://tegustalatele.vip:8000/images/logos/campeones6.png" group-title="ES 04 M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 6 HD
+http://79591759955282462.nicebig.xyz:80/Q5KEPXNAYC/1930269439/282462
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 6 HD (OP1)" tvg-logo="http://tegustalatele.vip:8000/images/logos/campeones6.png" group-title="ES 04 M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 6 HD (OP1)
+http://79591759955282463.nicebig.xyz:80/Q5KEPXNAYC/1930269439/282463
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 7 HD" tvg-logo="http://tegustalatele.vip:8000/images/logos/campeones7.png" group-title="ES 04 M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 7 HD
+http://79591759955282464.nicebig.xyz:80/Q5KEPXNAYC/1930269439/282464
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 7 HD (OP1)" tvg-logo="http://tegustalatele.vip:8000/images/logos/campeones7.png" group-title="ES 04 M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 7 HD (OP1)
+http://79591759955282465.nicebig.xyz:80/Q5KEPXNAYC/1930269439/282465
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 8 HD" tvg-logo="http://tegustalatele.vip:8000/images/logos/campeones8.png" group-title="ES 04 M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 8 HD
+http://79591759955282466.nicebig.xyz:80/Q5KEPXNAYC/1930269439/282466
+#EXTINF:-1 tvg-id="" tvg-name="ES: LIGA DE CAMPEONES 8 HD (OP1)" tvg-logo="http://tegustalatele.vip:8000/images/logos/campeones8.png" group-title="ES 04 M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 8 HD (OP1)
+http://79591759955282467.nicebig.xyz:80/Q5KEPXNAYC/1930269439/282467
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DEPORTES FHD" tvg-logo="" group-title="ES 09 DEPORTES",ES: MOVISTAR DEPORTES FHD
+http://79591759955165454.nicebig.xyz:80/Q5KEPXNAYC/1930269439/165454
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DEPORTES HD" tvg-logo="" group-title="ES 09 DEPORTES",ES: MOVISTAR DEPORTES HD
+http://79591759955165455.nicebig.xyz:80/Q5KEPXNAYC/1930269439/165455
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DEPORTES 1 FHD" tvg-logo="" group-title="ES 09 DEPORTES",ES: MOVISTAR DEPORTES 1 FHD
+http://79591759955165457.nicebig.xyz:80/Q5KEPXNAYC/1930269439/165457
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DEPORTES 1 HD" tvg-logo="" group-title="ES 09 DEPORTES",ES: MOVISTAR DEPORTES 1 HD
+http://79591759955165458.nicebig.xyz:80/Q5KEPXNAYC/1930269439/165458
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DEPORTES 1 SD" tvg-logo="" group-title="ES 09 DEPORTES",ES: MOVISTAR DEPORTES 1 SD
+http://79591759955165459.nicebig.xyz:80/Q5KEPXNAYC/1930269439/165459
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DEPORTES 2 HD" tvg-logo="" group-title="ES 09 DEPORTES",ES: MOVISTAR DEPORTES 2 HD
+http://79591759955165460.nicebig.xyz:80/Q5KEPXNAYC/1930269439/165460
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DEPORTES 4 SD" tvg-logo="" group-title="ES 09 DEPORTES",ES: MOVISTAR DEPORTES 4 SD
+http://79591759955165462.nicebig.xyz:80/Q5KEPXNAYC/1930269439/165462
+#EXTINF:-1 tvg-id="M. GOLF FHD" tvg-name="ES: MOVISTAR GOLF FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/GOLF%2B" group-title="ES 09 DEPORTES",ES: MOVISTAR GOLF FHD
+http://79591759955268094.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268094
+#EXTINF:-1 tvg-id="M. GOLF FHD" tvg-name="ES: MOVISTAR GOLF HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/GOLF%2B" group-title="ES 09 DEPORTES",ES: MOVISTAR GOLF HD
+http://79591759955268095.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268095
+#EXTINF:-1 tvg-id="M. GOLF HD" tvg-name="ES: MOVISTAR GOLF SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/GOLF%2B" group-title="ES 09 DEPORTES",ES: MOVISTAR GOLF SD
+http://79591759955268096.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268096
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DAZN 1 FHD" tvg-logo="https://i.pinimg.com/474x/67/21/0a/67210a52f8c3a001ac0710e63324ad30.jpg" group-title="ES 08 DAZN",ES: MOVISTAR DAZN 1 FHD
+http://79591759955228384.nicebig.xyz:80/Q5KEPXNAYC/1930269439/228384
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DAZN 1 HD" tvg-logo="https://i.pinimg.com/474x/67/21/0a/67210a52f8c3a001ac0710e63324ad30.jpg" group-title="ES 08 DAZN",ES: MOVISTAR DAZN 1 HD
+http://79591759955228385.nicebig.xyz:80/Q5KEPXNAYC/1930269439/228385
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DAZN 2 HD" tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_7a_b_85_c00000_0_0_0.png" group-title="ES 08 DAZN",ES: MOVISTAR DAZN 2 HD
+http://79591759955228388.nicebig.xyz:80/Q5KEPXNAYC/1930269439/228388
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DAZN 2 SD" tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_7a_b_85_c00000_0_0_0.png" group-title="ES 08 DAZN",ES: MOVISTAR DAZN 2 SD
+http://79591759955228389.nicebig.xyz:80/Q5KEPXNAYC/1930269439/228389
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DAZN 1 FHD (H265)" tvg-logo="https://i.pinimg.com/474x/67/21/0a/67210a52f8c3a001ac0710e63324ad30.jpg" group-title="ES 08 DAZN",ES: MOVISTAR DAZN 1 FHD (H265)
+http://79591759955228390.nicebig.xyz:80/Q5KEPXNAYC/1930269439/228390
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DAZN 2 FHD (H265)" tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_7a_b_85_c00000_0_0_0.png" group-title="ES 08 DAZN",ES: MOVISTAR DAZN 2 FHD (H265)
+http://79591759955228391.nicebig.xyz:80/Q5KEPXNAYC/1930269439/228391
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DAZN 3 FHD (H265)" tvg-logo="" group-title="ES 08 DAZN",ES: MOVISTAR DAZN 3 FHD (H265)
+http://79591759955228392.nicebig.xyz:80/Q5KEPXNAYC/1930269439/228392
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DAZN 3 FHD" tvg-logo="" group-title="ES 08 DAZN",ES: MOVISTAR DAZN 3 FHD
+http://79591759955228393.nicebig.xyz:80/Q5KEPXNAYC/1930269439/228393
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DAZN 3 HD" tvg-logo="" group-title="ES 08 DAZN",ES: MOVISTAR DAZN 3 HD
+http://79591759955228394.nicebig.xyz:80/Q5KEPXNAYC/1930269439/228394
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DAZN 3 SD" tvg-logo="" group-title="ES 08 DAZN",ES: MOVISTAR DAZN 3 SD
+http://79591759955228395.nicebig.xyz:80/Q5KEPXNAYC/1930269439/228395
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DAZN 4 FHD (H265)" tvg-logo="" group-title="ES 08 DAZN",ES: MOVISTAR DAZN 4 FHD (H265)
+http://79591759955228396.nicebig.xyz:80/Q5KEPXNAYC/1930269439/228396
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DAZN 4 FHD" tvg-logo="" group-title="ES 08 DAZN",ES: MOVISTAR DAZN 4 FHD
+http://79591759955228397.nicebig.xyz:80/Q5KEPXNAYC/1930269439/228397
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DAZN 4 HD" tvg-logo="" group-title="ES 08 DAZN",ES: MOVISTAR DAZN 4 HD
+http://79591759955228398.nicebig.xyz:80/Q5KEPXNAYC/1930269439/228398
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR DAZN 4 SD" tvg-logo="" group-title="ES 08 DAZN",ES: MOVISTAR DAZN 4 SD
+http://79591759955228399.nicebig.xyz:80/Q5KEPXNAYC/1930269439/228399
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 1 HD" tvg-logo="" group-title="ES 10 EUROSPORT",ES: EUROSPORT 1 HD
+http://79591759955272510.nicebig.xyz:80/Q5KEPXNAYC/1930269439/272510
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 2 HD" tvg-logo="" group-title="ES 10 EUROSPORT",ES: EUROSPORT 2 HD
+http://79591759955272511.nicebig.xyz:80/Q5KEPXNAYC/1930269439/272511
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 3 HD" tvg-logo="" group-title="ES 10 EUROSPORT",ES: EUROSPORT 3 HD
+http://79591759955272512.nicebig.xyz:80/Q5KEPXNAYC/1930269439/272512
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 4 HD" tvg-logo="" group-title="ES 10 EUROSPORT",ES: EUROSPORT 4 HD
+http://79591759955272513.nicebig.xyz:80/Q5KEPXNAYC/1930269439/272513
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 5 HD" tvg-logo="" group-title="ES 10 EUROSPORT",ES: EUROSPORT 5 HD
+http://79591759955272514.nicebig.xyz:80/Q5KEPXNAYC/1930269439/272514
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 6 HD" tvg-logo="" group-title="ES 10 EUROSPORT",ES: EUROSPORT 6 HD
+http://79591759955272515.nicebig.xyz:80/Q5KEPXNAYC/1930269439/272515
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 7 HD" tvg-logo="" group-title="ES 10 EUROSPORT",ES: EUROSPORT 7 HD
+http://79591759955272516.nicebig.xyz:80/Q5KEPXNAYC/1930269439/272516
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 8 HD" tvg-logo="" group-title="ES 10 EUROSPORT",ES: EUROSPORT 8 HD
+http://79591759955272517.nicebig.xyz:80/Q5KEPXNAYC/1930269439/272517
+#EXTINF:-1 tvg-id="" tvg-name="ES: EUROSPORT 9 HD" tvg-logo="" group-title="ES 10 EUROSPORT",ES: EUROSPORT 9 HD
+http://79591759955272518.nicebig.xyz:80/Q5KEPXNAYC/1930269439/272518
+#EXTINF:-1 tvg-id="GOL ASTRA SD 1.sp" tvg-name="ES: GOL TV FHD" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/gol-television.png" group-title="ES 09 DEPORTES",ES: GOL TV FHD
+http://79591759955165443.nicebig.xyz:80/Q5KEPXNAYC/1930269439/165443
+#EXTINF:-1 tvg-id="" tvg-name="ES: GOL TV HD" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/gol-television.png" group-title="ES 09 DEPORTES",ES: GOL TV HD
+http://79591759955165449.nicebig.xyz:80/Q5KEPXNAYC/1930269439/165449
+#EXTINF:-1 tvg-id="GOL ASTRA SD 1.sp" tvg-name="ES: GOL TV SD" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2018/01/gol-television.png" group-title="ES 09 DEPORTES",ES: GOL TV SD
+http://79591759955165441.nicebig.xyz:80/Q5KEPXNAYC/1930269439/165441
+#EXTINF:-1 tvg-id="" tvg-name="ES: TDP HD" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="ES 01 MOVISTAR+ VIP",ES: TDP HD
+http://79591759955283696.nicebig.xyz:80/Q5KEPXNAYC/1930269439/283696
+#EXTINF:-1 tvg-id="cazapesca.es" tvg-name="ES: CAZA Y PESCA FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CAZPES" group-title="ES 01 MOVISTAR+ VIP",ES: CAZA Y PESCA FHD
+http://79591759955267891.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267891
+#EXTINF:-1 tvg-id="CAZAyPESCA HD" tvg-name="ES: CAZA Y PESCA HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CAZPES" group-title="ES 01 MOVISTAR+ VIP",ES: CAZA Y PESCA HD
+http://79591759955267892.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267892
+#EXTINF:-1 tvg-id="CAZAyPESCA" tvg-name="ES: CAZA Y PESCA SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CAZPES" group-title="ES 01 MOVISTAR+ VIP",ES: CAZA Y PESCA SD
+http://79591759955267893.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267893
+#EXTINF:-1 tvg-id="IBERALIA TV" tvg-name="ES: IBERALIA SD" tvg-logo="https://iberaliago.com/static/media/iberalia_n.ab5cf066.png" group-title="ES 01 MOVISTAR+ VIP",ES: IBERALIA SD
+http://79591759955268027.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268027
+#EXTINF:-1 tvg-id="iberaliatv.es" tvg-name="ES: IBERALIA TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2581392edd071e491dd76535b6c588d4.png" group-title="ES 01 MOVISTAR+ VIP",ES: IBERALIA TV HD
+http://79591759955268029.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268029
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES: IBERLIA TV FHD" tvg-logo="http://live.fauconteam.com:8080/images/4665d585fe2737792e56e16d0134b8d5.png" group-title="ES 01 MOVISTAR+ VIP",ES: IBERLIA TV FHD
+http://79591759955268030.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268030
+#EXTINF:-1 tvg-id="ElToroTV.TV" tvg-name="ES: EL TORO TV HD" tvg-logo="https://eltorotv.com/wp-content/uploads/2020/03/logo-eltorotv_blanco.png" group-title="ES 01 MOVISTAR+ VIP",ES: EL TORO TV HD
+http://79591759955267976.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267976
+#EXTINF:-1 tvg-id="realmadridtv.es" tvg-name="ES: REAL MADRID TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d0a6dd394c357b14751e6a5f50483d24.png" group-title="ES 01 MOVISTAR+ VIP",ES: REAL MADRID TV HD
+http://79591759955268158.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268158
+#EXTINF:-1 tvg-id="RealMadridTV.sp" tvg-name="ES: REALMADRID TV FHD" tvg-logo="http://live.fauconteam.com/logo/realmadridtv.png" group-title="ES 01 MOVISTAR+ VIP",ES: REALMADRID TV FHD
+http://79591759955268160.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268160
+#EXTINF:-1 tvg-id="BARNA ASTRA SD 1.sp" tvg-name="ES: CANAL BARCA TV FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BARNA.png" group-title="ES 09 DEPORTES",ES: CANAL BARCA TV FHD
+http://79591759955165442.nicebig.xyz:80/Q5KEPXNAYC/1930269439/165442
+#EXTINF:-1 tvg-id="NAT GEO FHD" tvg-name="ES: NATIONAL GEOGRAPHIC FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/NATGEO" group-title="ES 01 MOVISTAR+ VIP",ES: NATIONAL GEOGRAPHIC FHD
+http://79591759955268125.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268125
+#EXTINF:-1 tvg-id="NAT GEO HD" tvg-name="ES: NATIONAL GEOGRAPHIC HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/NATGEO" group-title="ES 01 MOVISTAR+ VIP",ES: NATIONAL GEOGRAPHIC HD
+http://79591759955268126.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268126
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="ES: NAT GEO WILD FHD" tvg-logo="http://live.fauconteam.com/logo/natgeowildhdspain.png" group-title="ES 01 MOVISTAR+ VIP",ES: NAT GEO WILD FHD
+http://79591759955268124.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268124
+#EXTINF:-1 tvg-id="natgeowild.es" tvg-name="ES: NATIONAL GEOGRAPHIC WILD FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/NATGW" group-title="ES 01 MOVISTAR+ VIP",ES: NATIONAL GEOGRAPHIC WILD FHD
+http://79591759955268128.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268128
+#EXTINF:-1 tvg-id="NAT GEO WILD HD" tvg-name="ES: NATIONAL GEOGRAPHIC WILD HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/NATGW" group-title="ES 01 MOVISTAR+ VIP",ES: NATIONAL GEOGRAPHIC WILD HD
+http://79591759955268129.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268129
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="ES: NATIONAL GEOGRAPHIC WILD SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/NATGW" group-title="ES 01 MOVISTAR+ VIP",ES: NATIONAL GEOGRAPHIC WILD SD
+http://79591759955268130.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268130
+#EXTINF:-1 tvg-id="HISTORIA FHD" tvg-name="ES: CANAL HISTORIA FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST" group-title="ES 01 MOVISTAR+ VIP",ES: CANAL HISTORIA FHD
+http://79591759955267883.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267883
+#EXTINF:-1 tvg-id="HISTORIA FHD" tvg-name="ES: CANAL HISTORIA HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST" group-title="ES 01 MOVISTAR+ VIP",ES: CANAL HISTORIA HD
+http://79591759955267884.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267884
+#EXTINF:-1 tvg-id="HISTORIA" tvg-name="ES: CANAL HISTORIA SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/HIST" group-title="ES 01 MOVISTAR+ VIP",ES: CANAL HISTORIA SD
+http://79591759955267885.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267885
+#EXTINF:-1 tvg-id="DiscoveryChannel.sp" tvg-name="ES: DISCOVERY CHANNEL FHD" tvg-logo="http://live.fauconteam.com/logo/DISCOVERY--CHANNEL-HD.png" group-title="ES 01 MOVISTAR+ VIP",ES: DISCOVERY CHANNEL FHD
+http://79591759955267943.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267943
+#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="ES: DISCOVERY CHANNELS FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/DCR" group-title="ES 01 MOVISTAR+ VIP",ES: DISCOVERY CHANNELS FHD
+http://79591759955267944.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267944
+#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="ES: DISCOVERY CHANNELS HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/DCR" group-title="ES 01 MOVISTAR+ VIP",ES: DISCOVERY CHANNELS HD
+http://79591759955267945.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267945
+#EXTINF:-1 tvg-id="DISCOVERY" tvg-name="ES: DISCOVERY CHANNELS SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/DCR" group-title="ES 01 MOVISTAR+ VIP",ES: DISCOVERY CHANNELS SD
+http://79591759955267946.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267946
+#EXTINF:-1 tvg-id="odisea.es" tvg-name="ES: ODISEA FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ODISEA" group-title="ES 01 MOVISTAR+ VIP",ES: ODISEA FHD
+http://79591759955268147.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268147
+#EXTINF:-1 tvg-id="odisea.es" tvg-name="ES: ODISEA HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ODISEA" group-title="ES 01 MOVISTAR+ VIP",ES: ODISEA HD
+http://79591759955268148.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268148
+#EXTINF:-1 tvg-id="CANAL ODISEA" tvg-name="ES: ODISEA SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/ODISEA" group-title="ES 01 MOVISTAR+ VIP",ES: ODISEA SD
+http://79591759955268149.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268149
+#EXTINF:-1 tvg-id="blaze.es" tvg-name="ES: BLAZE FHD" tvg-logo="https://banner2.kisspng.com/20180710/tai/kisspng-blaze-television-channel-somos-history-flutter-logo-5b454ee49be197.6093021115312688366385.jpg" group-title="ES 01 MOVISTAR+ VIP",ES: BLAZE FHD
+http://79591759955267857.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267857
+#EXTINF:-1 tvg-id="blaze.es" tvg-name="ES: BLAZE HD" tvg-logo="https://banner2.kisspng.com/20180710/tai/kisspng-blaze-television-channel-somos-history-flutter-logo-5b454ee49be197.6093021115312688366385.jpg" group-title="ES 01 MOVISTAR+ VIP",ES: BLAZE HD
+http://79591759955267858.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267858
+#EXTINF:-1 tvg-id="VIAJAR FHD" tvg-name="ES: VIAJAR FHD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7e7ac7b84d7fd98286f5afbba86010cf.png" group-title="ES 01 MOVISTAR+ VIP",ES: VIAJAR FHD
+http://79591759955268213.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268213
+#EXTINF:-1 tvg-id="VIAJAR FHD" tvg-name="ES: VIAJAR HD" tvg-logo="http://live.fauconteam.com/viajarhd.png" group-title="ES 01 MOVISTAR+ VIP",ES: VIAJAR HD
+http://79591759955268214.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268214
+#EXTINF:-1 tvg-id="VIAJAR HD" tvg-name="ES: VIAJAR SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/VJR" group-title="ES 01 MOVISTAR+ VIP",ES: VIAJAR SD
+http://79591759955268215.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268215
+#EXTINF:-1 tvg-id="Discovery MAX" tvg-name="ES: DMAX FHD" tvg-logo="https://i2.wp.com/www.audiovisual451.com/wp-content/uploads/dmax-h.jpg?w=300&ssl=1" group-title="ES 01 MOVISTAR+ VIP",ES: DMAX FHD
+http://79591759955267961.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267961
+#EXTINF:-1 tvg-id="Discovery MAX" tvg-name="ES: DMAX HD" tvg-logo="https://i2.wp.com/www.audiovisual451.com/wp-content/uploads/dmax-h.jpg?w=300&ssl=1" group-title="ES 01 MOVISTAR+ VIP",ES: DMAX HD
+http://79591759955267962.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267962
+#EXTINF:-1 tvg-id="Discovery MAX" tvg-name="ES: DMAX SD" tvg-logo="https://i2.wp.com/www.audiovisual451.com/wp-content/uploads/dmax-h.jpg?w=300&ssl=1" group-title="ES 01 MOVISTAR+ VIP",ES: DMAX SD
+http://79591759955267963.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267963
+#EXTINF:-1 tvg-id="CRIMEN+INVES" tvg-name="ES: CRIMEN & INVESTIGACION FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CYM" group-title="ES 01 MOVISTAR+ VIP",ES: CRIMEN & INVESTIGACION FHD
+http://79591759955267914.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267914
+#EXTINF:-1 tvg-id="crimeinvestigation.es" tvg-name="ES: CRIMEN & INVESTIGACION HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CYM" group-title="ES 01 MOVISTAR+ VIP",ES: CRIMEN & INVESTIGACION HD
+http://79591759955267915.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267915
+#EXTINF:-1 tvg-id="crimeinvestigation.es" tvg-name="ES: CRIMEN & INVESTIGACION SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CYM" group-title="ES 01 MOVISTAR+ VIP",ES: CRIMEN & INVESTIGACION SD
+http://79591759955267916.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267916
+#EXTINF:-1 tvg-id="CrimeAndInvestigation.es" tvg-name="ES: CRIMEN INVESTIGACIÃ³N HD" tvg-logo="http://live.fauconteam.com:8080/images/c7c1087a432bad8b2f177c0339659b39.png" group-title="ES 01 MOVISTAR+ VIP",ES: CRIMEN INVESTIGACIÃ³N HD
+http://79591759955273833.nicebig.xyz:80/Q5KEPXNAYC/1930269439/273833
+#EXTINF:-1 tvg-id="Decasa.sp" tvg-name="ES: CANAL DECASA FHD" tvg-logo="http://live.fauconteam.com/logo/canaldecasa.png" group-title="ES 01 MOVISTAR+ VIP",ES: CANAL DECASA FHD
+http://79591759955267924.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267924
+#EXTINF:-1 tvg-id="" tvg-name="ES: DECASA HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3ef6cee1d32af51c61e1f1e60acd6f42.png" group-title="ES 01 MOVISTAR+ VIP",ES: DECASA HD
+http://79591759955267968.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267968
+#EXTINF:-1 tvg-id="CANAL COCINA FHD" tvg-name="ES: CANAL COCINA FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CACOC" group-title="ES 01 MOVISTAR+ VIP",ES: CANAL COCINA FHD
+http://79591759955267875.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267875
+#EXTINF:-1 tvg-id="CANAL COCINA FHD" tvg-name="ES: CANAL COCINA HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CACOC" group-title="ES 01 MOVISTAR+ VIP",ES: CANAL COCINA HD
+http://79591759955267877.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267877
+#EXTINF:-1 tvg-id="DIVINITY" tvg-name="ES: DIVINITY FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/DIVINI" group-title="ES 01 MOVISTAR+ VIP",ES: DIVINITY FHD
+http://79591759955267955.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267955
+#EXTINF:-1 tvg-id="DIVINITY" tvg-name="ES: DIVINITY HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/DIVINI" group-title="ES 01 MOVISTAR+ VIP",ES: DIVINITY HD
+http://79591759955267956.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267956
+#EXTINF:-1 tvg-id="DIVINITY" tvg-name="ES: DIVINITY SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/DIVINI" group-title="ES 01 MOVISTAR+ VIP",ES: DIVINITY SD
+http://79591759955267957.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267957
+#EXTINF:-1 tvg-id="NOVA FHD" tvg-name="ES: NOVA FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/NOVA" group-title="ES 01 MOVISTAR+ VIP",ES: NOVA FHD
+http://79591759955268141.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268141
+#EXTINF:-1 tvg-id="NOVA" tvg-name="ES: NOVA HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/NOVA" group-title="ES 01 MOVISTAR+ VIP",ES: NOVA HD
+http://79591759955268142.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268142
+#EXTINF:-1 tvg-id="NOVA" tvg-name="ES: NOVA SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/NOVA" group-title="ES 01 MOVISTAR+ VIP",ES: NOVA SD
+http://79591759955268143.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268143
+#EXTINF:-1 tvg-id="mega.es" tvg-name="ES: MEGA FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/MEGA" group-title="ES 01 MOVISTAR+ VIP",ES: MEGA FHD
+http://79591759955268047.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268047
+#EXTINF:-1 tvg-id="Mega HD" tvg-name="ES: MEGA HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/MEGA" group-title="ES 01 MOVISTAR+ VIP",ES: MEGA HD
+http://79591759955268048.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268048
+#EXTINF:-1 tvg-id="Mega HD" tvg-name="ES: MEGA SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/MEGA" group-title="ES 01 MOVISTAR+ VIP",ES: MEGA SD
+http://79591759955268049.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268049
+#EXTINF:-1 tvg-id="bemad.es" tvg-name="ES: BE MAD FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/BEMAD" group-title="ES 01 MOVISTAR+ VIP",ES: BE MAD FHD
+http://79591759955267854.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267854
+#EXTINF:-1 tvg-id="BE MAD" tvg-name="ES: BE MAD HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/BEMAD" group-title="ES 01 MOVISTAR+ VIP",ES: BE MAD HD
+http://79591759955267855.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267855
+#EXTINF:-1 tvg-id="BE MAD" tvg-name="ES: BE MAD SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/BEMAD" group-title="ES 01 MOVISTAR+ VIP",ES: BE MAD SD
+http://79591759955267856.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267856
+#EXTINF:-1 tvg-id="" tvg-name="ES: BOM CINE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/1200px-Logo-bom.svg.png" group-title="ES 01 MOVISTAR+ VIP",ES: BOM CINE HD
+http://79591759955272403.nicebig.xyz:80/Q5KEPXNAYC/1930269439/272403
+#EXTINF:-1 tvg-id="" tvg-name="ES: BOM CINE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/1200px-Logo-bom.svg.png" group-title="ES 01 MOVISTAR+ VIP",ES: BOM CINE HD
+http://79591759955287128.nicebig.xyz:80/Q5KEPXNAYC/1930269439/287128
+#EXTINF:-1 tvg-id="" tvg-name="ES: EL GARAGE TV HD" tvg-logo="" group-title="ES 01 MOVISTAR+ VIP",ES: EL GARAGE TV HD
+http://79591759955287379.nicebig.xyz:80/Q5KEPXNAYC/1930269439/287379
+#EXTINF:-1 tvg-id="BabyTV.es" tvg-name="ES: BABY TV FHD" tvg-logo="http://live.fauconteam.com:8080/images/_5Z91KCcyxhlvEEwnFERcyd8TbrsKvgD8-kNz-3-SWsoFFOzfW0GYSYFylBTayMC.png" group-title="ES 01 MOVISTAR+ VIP",ES: BABY TV FHD
+http://79591759955267864.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267864
+#EXTINF:-1 tvg-id="babytv.es" tvg-name="ES: BABY TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6e80d3d1f2b8abb84a77de8c5d2c9f54.png" group-title="ES 01 MOVISTAR+ VIP",ES: BABY TV HD
+http://79591759955267865.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267865
+#EXTINF:-1 tvg-id="BABY TV" tvg-name="ES: BABY TV SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/BABY" group-title="ES 01 MOVISTAR+ VIP",ES: BABY TV SD
+http://79591759955267851.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267851
+#EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="ES: DISNEY JUNIOR SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/PLAYDC" group-title="ES 01 MOVISTAR+ VIP",ES: DISNEY JUNIOR SD
+http://79591759955267952.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267952
+#EXTINF:-1 tvg-id="DisneyJr.sp" tvg-name="ES: DISNEY JUNIOR FHD" tvg-logo="http://live.fauconteam.com/logo/disneyjuniorhd.png" group-title="ES 01 MOVISTAR+ VIP",ES: DISNEY JUNIOR FHD
+http://79591759955267972.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267972
+#EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="ES: DISNEY JUNIOR HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cda21230d303c9e299518f56cddf9b76.png" group-title="ES 01 MOVISTAR+ VIP",ES: DISNEY JUNIOR HD
+http://79591759955267973.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267973
+#EXTINF:-1 tvg-id="canalpanda.es" tvg-name="ES: CANAL PANDA HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/PANDA" group-title="ES 01 MOVISTAR+ VIP",ES: CANAL PANDA HD
+http://79591759955267887.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267887
+#EXTINF:-1 tvg-id="canalpanda.es" tvg-name="ES: CANAL PANDA SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/PANDA" group-title="ES 01 MOVISTAR+ VIP",ES: CANAL PANDA SD
+http://79591759955273832.nicebig.xyz:80/Q5KEPXNAYC/1930269439/273832
+#EXTINF:-1 tvg-id="NICK JR" tvg-name="ES: NICK JUNIOR SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/NICKJR" group-title="ES 01 MOVISTAR+ VIP",ES: NICK JUNIOR SD
+http://79591759955268136.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268136
+#EXTINF:-1 tvg-id="Apunt.es" tvg-name="ES: NICK JR FHD" tvg-logo="http://live.fauconteam.com:8080/images/1ef2423c07a6a3b8ef60cd217fd26513.png" group-title="ES 01 MOVISTAR+ VIP",ES: NICK JR FHD
+http://79591759955268145.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268145
+#EXTINF:-1 tvg-id="nickjr.es" tvg-name="ES: NICK JUNIOR HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/622f473506c6e3ea09edd4d0d0d3e7ef.png" group-title="ES 01 MOVISTAR+ VIP",ES: NICK JUNIOR HD
+http://79591759955268146.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268146
+#EXTINF:-1 tvg-id="NickJunior.sp" tvg-name="ES: NICK JR HD" tvg-logo="http://live.fauconteam.com/logo/nickjr.png" group-title="ES 01 MOVISTAR+ VIP",ES: NICK JR HD
+http://79591759955268475.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268475
+#EXTINF:-1 tvg-id="NICKELODEON FHD" tvg-name="ES: NICKELODEON FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/NICK" group-title="ES 01 MOVISTAR+ VIP",ES: NICKELODEON FHD
+http://79591759955268138.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268138
+#EXTINF:-1 tvg-id="nickelodeon.es" tvg-name="ES: NICKELODEON HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/NICK" group-title="ES 01 MOVISTAR+ VIP",ES: NICKELODEON HD
+http://79591759955268477.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268477
+#EXTINF:-1 tvg-id="" tvg-name="ES: DREAMWORKS FHD" tvg-logo="https://e7.pngegg.com/pngimages/182/801/png-clipart-dreamworks-animation-animated-film-animation-studio-others-logo-fictional-character.png" group-title="ES 01 MOVISTAR+ VIP",ES: DREAMWORKS FHD
+http://79591759955267964.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267964
+#EXTINF:-1 tvg-id="" tvg-name="ES: DREAMWORKS TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/d564b8954fcbbaf57132329cde5e2222.png" group-title="ES 01 MOVISTAR+ VIP",ES: DREAMWORKS TV HD
+http://79591759955267965.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267965
+#EXTINF:-1 tvg-id="" tvg-name="ES: DREAMWORKS SD" tvg-logo="https://e7.pngegg.com/pngimages/182/801/png-clipart-dreamworks-animation-animated-film-animation-studio-others-logo-fictional-character.png" group-title="ES 01 MOVISTAR+ VIP",ES: DREAMWORKS SD
+http://79591759955267966.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267966
+#EXTINF:-1 tvg-id="DISNEY CH HD" tvg-name="ES: DISNEY CHANNEL FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/DCH" group-title="ES 01 MOVISTAR+ VIP",ES: DISNEY CHANNEL FHD
+http://79591759955267948.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267948
+#EXTINF:-1 tvg-id="DISNEY CH HD" tvg-name="ES: DISNEY CHANNEL HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/DCH" group-title="ES 01 MOVISTAR+ VIP",ES: DISNEY CHANNEL HD
+http://79591759955267949.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267949
+#EXTINF:-1 tvg-id="DISNEY CH HD" tvg-name="ES: DISNEY CHANNEL SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/DCH" group-title="ES 01 MOVISTAR+ VIP",ES: DISNEY CHANNEL SD
+http://79591759955267950.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267950
+#EXTINF:-1 tvg-id="BOING" tvg-name="ES: BOING FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/BOING" group-title="ES 01 MOVISTAR+ VIP",ES: BOING FHD
+http://79591759955267860.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267860
+#EXTINF:-1 tvg-id="BOING" tvg-name="ES: BOING HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/BOING" group-title="ES 01 MOVISTAR+ VIP",ES: BOING HD
+http://79591759955267861.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267861
+#EXTINF:-1 tvg-id="Boing.TV" tvg-name="ES: BOING SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/BOING" group-title="ES 01 MOVISTAR+ VIP",ES: BOING SD
+http://79591759955267862.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267862
+#EXTINF:-1 tvg-id="Clan.TV" tvg-name="ES: CLAN HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CLANTV" group-title="ES 01 MOVISTAR+ VIP",ES: CLAN HD
+http://79591759955267900.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267900
+#EXTINF:-1 tvg-id="Clan.TV" tvg-name="ES: CLAN SD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CLANTV" group-title="ES 01 MOVISTAR+ VIP",ES: CLAN SD
+http://79591759955267901.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267901
+#EXTINF:-1 tvg-id="clantve.es" tvg-name="ES: CLAN TVE HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1f30472c5af04230e55b054e8bfe234d.png" group-title="ES 01 MOVISTAR+ VIP",ES: CLAN TVE HD
+http://79591759955267931.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267931
+#EXTINF:-1 tvg-id="ETB3.es" tvg-name="ES: CLAN TVE FHD" tvg-logo="http://live.fauconteam.com:8080/images/0be72c0a34ea97990d8782e44dd86c72.png" group-title="ES 01 MOVISTAR+ VIP",ES: CLAN TVE FHD
+http://79591759955267932.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267932
+#EXTINF:-1 tvg-id="Clan.TV" tvg-name="ES: CLAN FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CLANTV" group-title="ES 01 MOVISTAR+ VIP",ES: CLAN FHD
+http://79591759955275472.nicebig.xyz:80/Q5KEPXNAYC/1930269439/275472
+#EXTINF:-1 tvg-id="" tvg-name="ES: ETB 1 HD" tvg-logo="http://graph.facebook.com/eitb/picture?width=320&height=320" group-title="ES 02 AUTONOMICOS",ES: ETB 1 HD
+http://79591759955165332.nicebig.xyz:80/Q5KEPXNAYC/1930269439/165332
+#EXTINF:-1 tvg-id="" tvg-name="ES: ETB 2 HD" tvg-logo="http://graph.facebook.com/eitb/picture?width=320&height=320" group-title="ES 02 AUTONOMICOS",ES: ETB 2 HD
+http://79591759955165333.nicebig.xyz:80/Q5KEPXNAYC/1930269439/165333
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: XTRM HD" tvg-logo="https://canalxtrm.es/wp-content/uploads/2017/06/xtrm-logo.png" group-title="ES 01 MOVISTAR+ VIP",ES: XTRM HD
+http://79591759955268217.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268217
+#EXTINF:-1 tvg-id="XTRM" tvg-name="ES: XTRM SD" tvg-logo="https://canalxtrm.es/wp-content/uploads/2017/06/xtrm-logo.png" group-title="ES 01 MOVISTAR+ VIP",ES: XTRM SD
+http://79591759955268218.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268218
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: XTRM FHD" tvg-logo="https://canalxtrm.es/wp-content/uploads/2017/06/xtrm-logo.png" group-title="ES 01 MOVISTAR+ VIP",ES: XTRM FHD
+http://79591759955277440.nicebig.xyz:80/Q5KEPXNAYC/1930269439/277440
+#EXTINF:-1 tvg-id="XTRM.es" tvg-name="ES: XTREM FHD" tvg-logo="http://live.fauconteam.com:8080/images/_5Z91KCcyxhlvEEwnFERcyd8TbrsKvgD8-kNz-3-SWuC3FIBldGRfKJ2zA192_JR.png" group-title="ES 01 MOVISTAR+ VIP",ES: XTREM FHD
+http://79591759955289199.nicebig.xyz:80/Q5KEPXNAYC/1930269439/289199
+#EXTINF:-1 tvg-id="XTRM.es" tvg-name="ES: XTREM SD" tvg-logo="http://live.fauconteam.com:8080/images/_5Z91KCcyxhlvEEwnFERcyd8TbrsKvgD8-kNz-3-SWuC3FIBldGRfKJ2zA192_JR.png" group-title="ES 01 MOVISTAR+ VIP",ES: XTREM SD
+http://79591759955289200.nicebig.xyz:80/Q5KEPXNAYC/1930269439/289200
+#EXTINF:-1 tvg-id="Somos" tvg-name="ES: SOMOS FHD" tvg-logo="https://canalsomos.es/wp-content/themes/canalsomos/images/somos-logo.png" group-title="ES 01 MOVISTAR+ VIP",ES: SOMOS FHD
+http://79591759955268162.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268162
+#EXTINF:-1 tvg-id="Somos" tvg-name="ES: SOMOS HD" tvg-logo="https://canalsomos.es/wp-content/themes/canalsomos/images/somos-logo.png" group-title="ES 01 MOVISTAR+ VIP",ES: SOMOS HD
+http://79591759955268163.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268163
+#EXTINF:-1 tvg-id="Somos" tvg-name="ES: SOMOS SD" tvg-logo="https://canalsomos.es/wp-content/themes/canalsomos/images/somos-logo.png" group-title="ES 01 MOVISTAR+ VIP",ES: SOMOS SD
+http://79591759955275480.nicebig.xyz:80/Q5KEPXNAYC/1930269439/275480
+#EXTINF:-1 tvg-id="" tvg-name="ES: MTV 00S HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/f5b08e9464dc9521a2e295eaaf678adf.png" group-title="ES 01 MOVISTAR+ VIP",ES: MTV 00S HD
+http://79591759955278157.nicebig.xyz:80/Q5KEPXNAYC/1930269439/278157
+#EXTINF:-1 tvg-id="Mezzo.sp" tvg-name="ES: MEZZO HD" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/c57191497062a36cafe54b4e0dd3cd07.png" group-title="ES 01 MOVISTAR+ VIP",ES: MEZZO HD
+http://79591759955277794.nicebig.xyz:80/Q5KEPXNAYC/1930269439/277794
+#EXTINF:-1 tvg-id="MezzoLiveHD.sp" tvg-name="ES: MEZZO LIVE FULL HD" tvg-logo="http://live.fauconteam.com/logo/mezzolive.png" group-title="ES 01 MOVISTAR+ VIP",ES: MEZZO LIVE FULL HD
+http://79591759955268051.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268051
+#EXTINF:-1 tvg-id="mezzolivehd.es" tvg-name="ES: MEZZO LIVE HD" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/c3ed2338fbcae4f5a75664e7329982b7.png" group-title="ES 01 MOVISTAR+ VIP",ES: MEZZO LIVE HD
+http://79591759955272422.nicebig.xyz:80/Q5KEPXNAYC/1930269439/272422
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="ES: CLASSICA FHD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CLASSD" group-title="ES 01 MOVISTAR+ VIP",ES: CLASSICA FHD
+http://79591759955267903.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267903
+#EXTINF:-1 tvg-id="Classica.es" tvg-name="ES: CLASSICA HD" tvg-logo="http://live.fauconteam.com:8080/images/9f27ab2ec282a3e7d6291a4d725b9e28.png" group-title="ES 01 MOVISTAR+ VIP",ES: CLASSICA HD
+http://79591759955273367.nicebig.xyz:80/Q5KEPXNAYC/1930269439/273367
+#EXTINF:-1 tvg-id="Sol Musica" tvg-name="ES: SOL FHD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/7f/Sol_Musica_old.png/revision/latest/scale-to-width-down/200?cb=20140326133708" group-title="ES 01 MOVISTAR+ VIP",ES: SOL FHD
+http://79591759955277437.nicebig.xyz:80/Q5KEPXNAYC/1930269439/277437
+#EXTINF:-1 tvg-id="" tvg-name="ES: SOL MUSICA FHD" tvg-logo="" group-title="ES 01 MOVISTAR+ VIP",ES: SOL MUSICA FHD
+http://79591759955287106.nicebig.xyz:80/Q5KEPXNAYC/1930269439/287106
+#EXTINF:-1 tvg-id="24horas.es" tvg-name="ES: CANAL 24 HORAS HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8e1f33920e5a5e1832ddd8fb7e69ee3a.png" group-title="ES 01 MOVISTAR+ VIP",ES: CANAL 24 HORAS HD
+http://79591759955267920.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267920
+#EXTINF:-1 tvg-id="" tvg-name="ES: 24 HORAS HD" tvg-logo="http://live.fauconteam.com/logo/24horas.png" group-title="ES 01 MOVISTAR+ VIP",ES: 24 HORAS HD
+http://79591759955268445.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268445
+#EXTINF:-1 tvg-id="" tvg-name="ES: 24 HORAS FHD" tvg-logo="http://fauconteam.com/logo/24horas.png" group-title="ES 01 MOVISTAR+ VIP",ES: 24 HORAS FHD
+http://79591759955275469.nicebig.xyz:80/Q5KEPXNAYC/1930269439/275469
+#EXTINF:-1 tvg-id="24 HORAS" tvg-name="ES: 24H HD" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/24H" group-title="ES 01 MOVISTAR+ VIP",ES: 24H HD
+http://79591759955275470.nicebig.xyz:80/Q5KEPXNAYC/1930269439/275470
+#EXTINF:-1 tvg-id="" tvg-name="ES: CNN HD" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/a348d31016592fd76797fd6f8348aed4.png" group-title="ES 01 MOVISTAR+ VIP",ES: CNN HD
+http://79591759955283123.nicebig.xyz:80/Q5KEPXNAYC/1930269439/283123
+#EXTINF:-1 tvg-id="" tvg-name="ES: CNN INTERNATIONAL EUROPE HD" tvg-logo="" group-title="ES 01 MOVISTAR+ VIP",ES: CNN INTERNATIONAL EUROPE HD
+http://79591759955287367.nicebig.xyz:80/Q5KEPXNAYC/1930269439/287367
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOX NEWS HD" tvg-logo="http://live.fauconteam.com/foxnews.png" group-title="ES 01 MOVISTAR+ VIP",ES: FOX NEWS HD
+http://79591759955268461.nicebig.xyz:80/Q5KEPXNAYC/1930269439/268461
+#EXTINF:-1 tvg-id="" tvg-name="ES: FOX NEWS CHANNEL HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4caedb4c999ffd9f772a03fc6834a969.png" group-title="ES 01 MOVISTAR+ VIP",ES: FOX NEWS CHANNEL HD
+http://79591759955272415.nicebig.xyz:80/Q5KEPXNAYC/1930269439/272415
+#EXTINF:-1 tvg-id="" tvg-name="ES: EURONEWS EN ESPANOL HD" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/822ce6f0945493fe8c121d8e98e31a7a.png" group-title="ES 01 MOVISTAR+ VIP",ES: EURONEWS EN ESPANOL HD
+http://79591759955284679.nicebig.xyz:80/Q5KEPXNAYC/1930269439/284679
+#EXTINF:-1 tvg-id="" tvg-name="ES: EURONEWS EN ESPANOL HD" tvg-logo="" group-title="ES 01 MOVISTAR+ VIP",ES: EURONEWS EN ESPANOL HD
+http://79591759955285747.nicebig.xyz:80/Q5KEPXNAYC/1930269439/285747
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="BabyTV.es" tvg-name="ES: BABY TV FHD" tvg-logo="http://live.fauconteam.com:8080/images/_5Z91KCcyxhlvEEwnFERcyd8TbrsKvgD8-kNz-3-SWsoFFOzfW0GYSYFylBTayMC.png" group-title="ES 01 MOVISTAR+ VIP",ES: BABY TV FHD
 http://79591759955267864.nicebig.xyz:80/Q5KEPXNAYC/1930269439/267864
 #EXTINF:-1 tvg-id="babytv.es" tvg-name="ES: BABY TV HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6e80d3d1f2b8abb84a77de8c5d2c9f54.png" group-title="ES 01 MOVISTAR+ VIP",ES: BABY TV HD
